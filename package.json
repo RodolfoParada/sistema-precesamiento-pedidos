@@ -1,0 +1,22 @@
+{
+  "name": "sistema-precesamiento-pedidos",
+  "version": "1.0.0",
+  "description": "",
+  
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodolfoParada/sistema-precesamiento-pedidos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+ "type": "module",
+  "bugs": {
+    "url": "https://github.com/RodolfoParada/sistema-precesamiento-pedidos/issues"
+  },
+  "homepage": "https://github.com/RodolfoParada/sistema-precesamiento-pedidos#readme"
+}
